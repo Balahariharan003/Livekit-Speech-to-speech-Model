@@ -1,0 +1,14 @@
+livekit==1.0.12
+livekit-agents==1.2.3
+livekit-api==1.0.5
+livekit-blingfire==1.0.0
+livekit-plugins-cartesia==1.2.3
+livekit-plugins-deepgram==1.2.3
+livekit-plugins-google==1.2.3
+livekit-plugins-noise-cancellation==0.2.5
+livekit-plugins-silero==0.6.0
+livekit-plugins-turn-detector==1.2.3
+livekit-protocol==1.0.4
+python-dotenv
+aioconsole
+
